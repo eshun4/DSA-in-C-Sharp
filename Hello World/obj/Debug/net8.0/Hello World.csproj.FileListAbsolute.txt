@@ -12,3 +12,4 @@ C:\Users\onlyj\Desktop\DSA\DS and Algorithms in C#\Hello World\obj\Debug\net8.0\
 C:\Users\onlyj\Desktop\DSA\DS and Algorithms in C#\Hello World\obj\Debug\net8.0\Hello World.pdb
 C:\Users\onlyj\Desktop\DSA\DS and Algorithms in C#\Hello World\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
 C:\Users\onlyj\Desktop\DSA\DS and Algorithms in C#\Hello World\obj\Debug\net8.0\ref\Hello World.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Hello World\obj\Debug\net8.0\Hello World.sourcelink.json
