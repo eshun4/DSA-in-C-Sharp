@@ -1,0 +1,15 @@
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\Functions.sourcelink.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\bin\Debug\net8.0\Functions.exe
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\bin\Debug\net8.0\Functions.deps.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\bin\Debug\net8.0\Functions.runtimeconfig.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\bin\Debug\net8.0\Functions.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\bin\Debug\net8.0\Functions.pdb
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\Functions.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\refint\Functions.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\Functions.pdb
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Functions\obj\Debug\net8.0\ref\Functions.dll

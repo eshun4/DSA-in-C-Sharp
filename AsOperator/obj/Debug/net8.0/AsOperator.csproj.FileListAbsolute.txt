@@ -1,0 +1,15 @@
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\bin\Debug\net8.0\AsOperator.exe
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\bin\Debug\net8.0\AsOperator.deps.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\bin\Debug\net8.0\AsOperator.runtimeconfig.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\bin\Debug\net8.0\AsOperator.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\bin\Debug\net8.0\AsOperator.pdb
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\AsOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\AsOperator.AssemblyInfoInputs.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\AsOperator.AssemblyInfo.cs
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\AsOperator.csproj.CoreCompileInputs.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\AsOperator.sourcelink.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\AsOperator.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\refint\AsOperator.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\AsOperator.pdb
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\AsOperator.genruntimeconfig.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsOperator\obj\Debug\net8.0\ref\AsOperator.dll
