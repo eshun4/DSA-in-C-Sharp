@@ -127,6 +127,29 @@ This repository holds code including Data Structures and OOP Concepts in C#.
 - A contextual keyword only has certain meaning in the context of the program.
 - New keywords are usually added as contextual keywords so that they don't break legacy programs.
 
+### Basic Built - In data types
+- The basic built-in datatypes in C# are:
+    1. Ints.
+    2. Floats.
+    3. Strings.
+    4. Characters.
+    5. Booleans.
+
+- These are the building blocks of the language.
+
+### Slicing strings into substrings
+- Substring - a smaller inside of the main string. e.g. `"abc" - [a, b, c,ab, bc. abc]`.
+- Substrings are continuous for example, "ac" is NOT one of the substrings.
+
+### StringBuilder Class
+- Strings are immutable.
+- String modifications are really string creations.
+- Bad approach for making lots of changes to a string, takes up too much program memory.
+- Solution: Use the StringBuilder Class.
+- Mutable sequence of characters.
+- Sealed class, cannot be subclassed.
+
+
 
 
 
