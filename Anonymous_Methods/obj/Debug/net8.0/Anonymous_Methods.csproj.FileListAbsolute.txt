@@ -1,0 +1,15 @@
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.exe
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.deps.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.runtimeconfig.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.pdb
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.AssemblyInfoInputs.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.AssemblyInfo.cs
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.csproj.CoreCompileInputs.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.sourcelink.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\refint\Anonymous_Methods.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.pdb
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.genruntimeconfig.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\Anonymous_Methods\obj\Debug\net8.0\ref\Anonymous_Methods.dll

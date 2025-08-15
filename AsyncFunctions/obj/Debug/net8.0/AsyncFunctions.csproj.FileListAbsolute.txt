@@ -1,0 +1,15 @@
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\bin\Debug\net8.0\AsyncFunctions.exe
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\bin\Debug\net8.0\AsyncFunctions.deps.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\bin\Debug\net8.0\AsyncFunctions.runtimeconfig.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\bin\Debug\net8.0\AsyncFunctions.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\bin\Debug\net8.0\AsyncFunctions.pdb
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\AsyncFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\AsyncFunctions.AssemblyInfoInputs.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\AsyncFunctions.AssemblyInfo.cs
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\AsyncFunctions.csproj.CoreCompileInputs.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\AsyncFunctions.sourcelink.json
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\AsyncFunctions.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\refint\AsyncFunctions.dll
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\AsyncFunctions.pdb
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\AsyncFunctions.genruntimeconfig.cache
+C:\Users\onlyj\Desktop\DSA\DS and ALgorithms in C#\AsyncFunctions\obj\Debug\net8.0\ref\AsyncFunctions.dll
